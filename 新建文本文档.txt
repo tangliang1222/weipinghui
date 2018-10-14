@@ -1,0 +1,13 @@
+1.loginbar  
+2.head
+3.nav
+4.banner
+5.main-newper
+6.main-newsell
+
+
+
+
+1select可控制width  字体大小
+2 color #666
+3小图片（后接文字）的居中   必须让前面的图片浮动起来   
